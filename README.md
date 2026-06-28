@@ -36,23 +36,6 @@ I am a passionate Software Engineering undergraduate with a strong interest in s
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dinuja937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="155"/>
-
-&nbsp;
-
-<img src="https://streak-stats.demolab.com?user=Dinuja937&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
-
-</div>
-
-<br>
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinuja937&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true)
-
----
 
 ## 🌐 Portfolio
 
