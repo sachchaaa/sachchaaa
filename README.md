@@ -50,7 +50,8 @@ I am a passionate Software Engineering undergraduate with a strong interest in s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://lk.linkedin.com/in/sachinimenuwara)
 
-[![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:agrmdcranaweera@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:sachini.fedo002@gmail.com)
+
 
 </div>
 
