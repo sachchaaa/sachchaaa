@@ -12,7 +12,9 @@
 
 ## 🎓 About Me
 
-I am a passionate Software Engineering undergraduate with a strong interest in software development and building impactful, user-friendly digital solutions. I enjoy working on real-world software projects and continuously improving my technical and problem-solving skills by learning new technologies and staying updated with industry trends. My goal is to become a skilled full-stack developer and create meaningful, user-centered applications that provide real value to users.
+I am a dedicated Software Engineering undergraduate with a strong passion for developing impactful, user‑focused digital solutions. My academic journey and project experience have fueled my interest in building modern applications that combine functionality with intuitive design. I thrive on solving complex problems, continuously expanding my technical expertise, and staying aligned with emerging industry trends.
+
+My career goal is to grow into a skilled full‑stack developer, contributing to innovative projects that deliver meaningful value to users and organizations alike..
 
 ---
 
