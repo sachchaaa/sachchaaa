@@ -59,8 +59,9 @@ My career goal is to grow into a skilled full‑stack developer, contributing to
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FAD7A0&height=80&section=footer&reversal=true&text=&fontSize=0&width=1000"/>
 
 <sub>Open to internship opportunities, collaborative projects, and building impactful real-world software solutions.</sub>
 
 </div>
+
