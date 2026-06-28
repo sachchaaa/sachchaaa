@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Dinuja%20Ranaweera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=building%20modern%20and%20impactful%20software&descAlignY=70&descSize=15&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FAD7A0&height=150&section=header&text=Sachini%20Menuwara&fontSize=45&fontColor=000000&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=building%20modern%20and%20impactful%20software&descAlignY=70&descSize=15&width=1000"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+Problem+Solver;Continuously+learning+and+building+real-world+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+Problem+Solver;Continuously+learning+and+building+real-world+projects" />
 
 </div>
+
 
 [![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)](mailto:sachini.fedo002@gmail.com)
 
